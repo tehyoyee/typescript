@@ -1,4 +1,3 @@
-"use strict";
 // 타입 주석
 const a = 3;
 const b = "hi ts";
